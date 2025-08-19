@@ -30,7 +30,8 @@
 
 📩 **添加企微**
 
-![4f479c273cc0701c9aa0cc9b5196bdac](https://github.com/user-attachments/assets/727296f3-9749-4b9b-a557-423e6dc72a61)
+<img src="https://github.com/user-attachments/assets/727296f3-9749-4b9b-a557-423e6dc72a61" alt="4f479c273cc0701c9aa0cc9b5196bdac" width="200px" />
+
 
 
 
