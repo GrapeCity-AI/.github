@@ -25,7 +25,7 @@
 🌐 **官方网站**  
 [![Website](https://img.shields.io/badge/Website-grapecity.com.cn-blue?logo=google-chrome&logoColor=white)](https://www.grapecity.com.cn/)
 
-📩 **技术资讯**  
+📩 **技术咨询**  
 [![ASK](https://img.shields.io/badge/Email-info.xa@grapecity.com-red?logo=gmail&logoColor=white)](https://www.grapecity.com.cn/applyonline)
 
 📩 **添加企微**
